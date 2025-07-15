@@ -4,8 +4,8 @@
 - Implement server-side pagination
     - create GET endpoint
         - /incidents
-        - Add pagination logic - 10 per page
-            - optional: page=<number>&limit=<number>
+        - Add pagination logic
+            - optional query params: page=&limit=
 - Render incidents in a table 
     - Call /incidents endpoint to fetch data
     - Add a table view in React app (I used AI assistant to make it look great) 

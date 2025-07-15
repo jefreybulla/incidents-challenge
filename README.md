@@ -26,10 +26,10 @@ npm run dev
 ```
 
 ## API Usage examples
-GET /incidents - Returns first 10 incidents (default)
-GET /incidents?page=2&limit=5 - Returns 5 incidents from page 2
-GET /incidents?limit=20 - Returns first 20 incidents
-GET /incidents?page=3 - Returns 10 incidents from page 3
+- GET /incidents - Returns first 10 incidents (default)
+- GET /incidents?page=2&limit=5 - Returns 5 incidents from page 2
+- GET /incidents?limit=20 - Returns first 20 incidents
+- GET /incidents?page=3 - Returns 10 incidents from page 3
 
 
 ## Possible Future Improvements

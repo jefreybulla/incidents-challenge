@@ -43,3 +43,7 @@ GET /incidents?page=3 - Returns 10 incidents from page 3
 - UI
     - Sortable columns 
     - Export to CSV
+
+
+## UI screenshot
+<img width="1310" height="868" alt="Screenshot 2025-07-15 at 2 04 03 PM" src="https://github.com/user-attachments/assets/d27e677e-962c-4aaf-a9e1-4160a6aabda5" />
